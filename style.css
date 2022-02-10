@@ -76,7 +76,11 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 100px 180px;
+    padding: 30px 180px 100px 180px;
+    gap: 30px;
+}
+.info h2 {
+    font-size: 30px;
 }
 
 .cards {
