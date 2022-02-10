@@ -142,6 +142,13 @@ button {
     padding: 10px 30px;
 }
 
+.blue-box-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
 .footer {
     background-color: #1F2937;
     color: #E5E7EB;
